@@ -4,7 +4,8 @@
         "- Removed",
         "- Updated",
         "- Fixed",
-        "- Misc"
+        "- Misc",
+        "- Merged"
     )
 
     # $args[0] should contain the path to a file with the user's commit message
